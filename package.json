@@ -19,7 +19,7 @@
     "web-scraping",
     "headless-browser"
   ],
-  "author": "Your Name",
+  "author": "ZENGHAO",
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^21.0.0"
