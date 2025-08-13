@@ -31,32 +31,32 @@ node examples/basic-example.js
 
 ### 2. 网页截图
 ```bash
-pnpm run screenshot
+pnpm screenshot
 ```
 
 ### 3. 生成 PDF
 ```bash
-pnpm run pdf
+pnpm pdf
 ```
 
 ### 4. 网页数据抓取
 ```bash
-pnpm run scraping
+pnpm scraping
 ```
 
 ### 5. 表单交互
 ```bash
-pnpm run form
+pnpm form
 ```
 
 ### 6. 性能测试
 ```bash
-pnpm run performance
+pnpm performance
 ```
 
 ### 7. 移动端模拟
 ```bash
-pnpm run mobile
+pnpm mobile
 ```
 
 ## 项目结构
