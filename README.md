@@ -17,46 +17,46 @@ Puppeteer 是一个 Node.js 库，它提供了一个高级 API 来控制 Chrome 
 ## 安装
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## 使用例子
 
 ### 1. 基础例子
 ```bash
-npm start
+pnpm start
 # 或者
 node examples/basic-example.js
 ```
 
 ### 2. 网页截图
 ```bash
-npm run screenshot
+pnpm run screenshot
 ```
 
 ### 3. 生成 PDF
 ```bash
-npm run pdf
+pnpm run pdf
 ```
 
 ### 4. 网页数据抓取
 ```bash
-npm run scraping
+pnpm run scraping
 ```
 
 ### 5. 表单交互
 ```bash
-npm run form
+pnpm run form
 ```
 
 ### 6. 性能测试
 ```bash
-npm run performance
+pnpm run performance
 ```
 
 ### 7. 移动端模拟
 ```bash
-npm run mobile
+pnpm run mobile
 ```
 
 ## 项目结构
