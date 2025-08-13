@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-learning",
+  "version": "1.0.0",
+  "description": "Puppeteer学习项目 - 包含各种使用例子",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node examples/basic-example.js",
+    "screenshot": "node examples/screenshot.js",
+    "pdf": "node examples/generate-pdf.js",
+    "scraping": "node examples/web-scraping.js",
+    "form": "node examples/form-interaction.js",
+    "performance": "node examples/performance-test.js",
+    "mobile": "node examples/mobile-simulation.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "automation",
+    "web-scraping",
+    "headless-browser"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
