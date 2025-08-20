@@ -78,7 +78,7 @@ puppeteer/
 │   ├── form-interaction.js   # 表单交互
 │   ├── performance-test.js   # 性能测试
 │   ├── mobile-simulation.js  # 移动端模拟
-│   └── auto-login-capture    # PC端自动登录表单申请
+│   └── auto-login-capture.js # PC端自动登录表单申请
 ├── output/                   # 输出文件目录
 └── utils/                    # 工具函数
     └── helpers.js
