@@ -59,6 +59,11 @@ pnpm performance
 pnpm mobile
 ```
 
+### 8. 自动登录表单申请
+```bash
+pnpm capture
+```
+
 ## 项目结构
 
 ```

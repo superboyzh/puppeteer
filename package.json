@@ -11,7 +11,8 @@
     "scraping": "node examples/web-scraping.js",
     "form": "node examples/form-interaction.js",
     "performance": "node examples/performance-test.js",
-    "mobile": "node examples/mobile-simulation.js"
+    "mobile": "node examples/mobile-simulation.js",
+    "capture": "node examples/auto-login-capture.js"
   },
   "keywords": [
     "puppeteer",
